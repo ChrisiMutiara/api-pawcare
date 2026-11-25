@@ -1,0 +1,14 @@
+[
+  {"id": 1, "nama": "Max Vet and Pet Care", "alamat": "Jl. K.H. Muhdi, Demangan, Sleman", "telepon": "082137248725", "latitude": -7.777, "longitude": 110.423},
+  {"id": 2, "nama": "SEANA PETSHOP", "alamat": "Jl. Kapten Piere Tendean No.29, Wirobrajan", "telepon": "0895401368115", "latitude": -7.804, "longitude": 110.351},
+  {"id": 3, "nama": "Dokter Hewan TANTI SUDANARTI", "alamat": "Jl. Pugeran Timur No.591A, Mantrijeron", "telepon": "081226261126", "latitude": -7.815, "longitude": 110.359},
+  {"id": 4, "nama": "Praktik Dokter Hewan Kayu Manis", "alamat": "Jl. Gambiran No.52, Umbulharjo", "telepon": "087702116336", "latitude": -7.819, "longitude": 110.390},
+  {"id": 5, "nama": "SATWAKITA NOGOTIRTO", "alamat": "Jl. Nogotirto No.188, Gamping", "telepon": "085100517403", "latitude": -7.774, "longitude": 110.337},
+  {"id": 6, "nama": "DèDocVet Klinik Hewan", "alamat": "Jl. Taman Siswa No.160, Mergangsan", "telepon": "081125208893", "latitude": -7.814, "longitude": 110.376},
+  {"id": 7, "nama": "Lily Gunawan. Drh", "alamat": "Jl. Bhayangkara No.30A, Gondomanan", "telepon": "087839281900", "latitude": -7.799, "longitude": 110.362},
+  {"id": 8, "nama": "Petopia Pet Care", "alamat": "Mertosanan Kulon, Banguntapan", "telepon": "081977112249", "latitude": -7.851, "longitude": 110.410},
+  {"id": 9, "nama": "Petcare & Petshop Meoong", "alamat": "Jl. Ring Barat selatan UMY, Kasihan", "telepon": "08175410742", "latitude": -7.812, "longitude": 110.324},
+  {"id": 10, "nama": "Medical Pet Jogja", "alamat": "Jl. Bantul Km. 5, Sewon", "telepon": "085725818173", "latitude": -7.835, "longitude": 110.352},
+  {"id": 11, "nama": "Satwakita Seturan", "alamat": "Jl. Raya Kledokan No.7, Depok", "telepon": "085101635111", "latitude": -7.776, "longitude": 110.408},
+  {"id": 12, "nama": "Klinik Hewan - Dji'O", "alamat": "Gg. Menur No.15, Caturtunggal", "telepon": "085640473600", "latitude": -7.769, "longitude": 110.392}
+]
